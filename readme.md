@@ -1,4 +1,4 @@
-# Cakes Co
+# Cakes Co Mission 🧁
 
 The aim of this exercise is to create a **responsive webpage** showcasing your cake business.
 
@@ -40,14 +40,13 @@ Two wireframes are provided down below (scroll to the bottom).
 
 ## Remember
  - **Commit and push your code often** so you get into the habit and you avoid losing any code that you write if your machine crashes for example. 
- - Once you're ready to submit your homework for review, do a final push and **create a Pull Request**. If you're unsure how to do this, [have a look here](https://syllabus.codeyourfuture.io/git/cheatsheet/#i-want-to-send-my-code-to-volunteers-pushing).  
-  Your PR should be named following this format: `Class name - Your name`, for example: `London class 7 - Adam Smith`.
+ - Once you're ready to submit your homework for review, do a final push.
 
 
 ## Deployment (optional)
 
 [Deploy your work to Netlify!](https://syllabus.codeyourfuture.io/workshops/deployment/workshop/instructions/)
-Remember to follow this naming convention when creating your custom URL in Netlify: `https://cyf-[your-Github-username]-cakes.netlify.app/`
+Remember to follow this naming convention when creating your custom URL in Netlify: `https://mc-[your-Github-username]-cakes.netlify.app/`
 
 
 ## Wireframes
@@ -55,8 +54,9 @@ Remember to follow this naming convention when creating your custom URL in Netli
 Build the mobile wireframe first, then adapt it for larger screens.  
 
 *Mobile wireframe:*  
-![alt text](./design/cakes%20wireframe%20-%20mobile.png "Cakes Co mobile design")
+![alt text](./.content/cakes%20wireframe%20-%20mobile.png "Cakes Co mobile design")
 
 *Desktop wireframe:*  
-![alt text](./design/cakes%20wireframe%20-%20desktop.png "Cakes Co desktop design")
+![alt text](./.content/cakes%20wireframe%20-%20desktop.png "Cakes Co desktop design")
 
+> Source: [CodeYourFuture](https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week3) ❤️
