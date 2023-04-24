@@ -4,6 +4,11 @@ The aim of this exercise is to create a **responsive webpage** showcasing your c
 
 Two wireframes are provided down below (scroll to the bottom).
 
+## 👩‍🔧 To work on the website from inside your CodeSpace or Visual Studio: 
+
+Press Ctrl + Shift + P (Cmd + Shift + P on mac) and type: `CodeSwing: Open Swing...`
+
+Press Enter, when you see `/workspaces/htmlcss-zoo/`, press Enter again. You should see the website preview on the right!
 
 ## Task
 
