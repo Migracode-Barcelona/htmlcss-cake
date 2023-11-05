@@ -8,7 +8,7 @@ Two wireframes are provided down below (scroll to the bottom).
 
 Press Ctrl + Shift + P (Cmd + Shift + P on mac) and type: `CodeSwing: Open Swing...`
 
-Press Enter, when you see `/workspaces/htmlcss-zoo/`, press Enter again. You should see the website preview on the right!
+Press Enter, when you see `/workspaces/htmlcss-cake/`, press Enter again. You should see the website preview on the right!
 
 ## Task
 
