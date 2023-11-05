@@ -48,12 +48,6 @@ Press Enter, when you see `/workspaces/htmlcss-zoo/`, press Enter again. You sho
  - Once you're ready to submit your homework for review, do a final push.
 
 
-## Deployment (optional)
-
-[Deploy your work to Netlify!](https://syllabus.codeyourfuture.io/workshops/deployment/workshop/instructions/)
-Remember to follow this naming convention when creating your custom URL in Netlify: `https://mc-[your-Github-username]-cakes.netlify.app/`
-
-
 ## Wireframes
 
 Build the mobile wireframe first, then adapt it for larger screens.  
